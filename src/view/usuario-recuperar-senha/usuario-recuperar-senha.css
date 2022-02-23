@@ -1,0 +1,20 @@
+.btn-enviar{
+    background-color: #614ea6;
+    color: #fff;
+    width: 50%;
+}
+.btn-enviar:hover{
+    background-color: #f21667;
+    color: #fff;
+}
+.cadastro input{
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+}
+.login{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
